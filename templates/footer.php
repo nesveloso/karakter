@@ -87,7 +87,7 @@
         <div class="container">
         <p>
             &copy; <span id="displayDate"></span> All Rights Reserved By
-            <a href="http://inesveloso.pt/">Inês Veloso</a>
+            <a href="inesveloso.com">Inês Veloso</a>
         </p>
         </div>
     </footer>
